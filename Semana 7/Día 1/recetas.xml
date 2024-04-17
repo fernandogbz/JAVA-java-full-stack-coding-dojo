@@ -1,0 +1,18 @@
+<recetas>
+    <receta tiempo="30">
+        <titulo> Pizza </titulo>
+        <ingredientes>
+            <ingrediente>
+                Tomate
+            </ingrediente>
+            <ingrediente>
+                Queso
+            </ingrediente>
+            <ingrediente>
+                Masa
+            </ingrediente>
+        </ingredientes>
+        <instruccciones>
+        </instruccciones>
+    </receta>
+</recetas>
