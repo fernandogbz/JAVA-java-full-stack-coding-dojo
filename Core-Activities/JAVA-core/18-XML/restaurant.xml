@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<restaurant>
+    <lunchMenu>
+        <item category="entradas">
+            <name>Ensalada con Pollo</name>
+            <description>Una ensalada con pollo.</description>
+            <price>$10.99</price>
+        </item>
+        <item category="entradas">
+            <name>Sánduche de Pollo</name>
+            <description>Un sánduche de pollo. </description>
+            <price>$12.99</price>
+        </item>
+        <item category="entradas">
+            <name>Sánduche de Pastrami</name>
+            <description>Un sánduche hecho con pastrami.</description>
+            <price>$13.99</price>
+        </item>
+        <item category="bebidas">
+            <name>Coca-Cola</name>
+            <description>Una gaseosa.</description>
+            <price>$0.99</price>
+        </item>
+        <item category="bebidas">
+            <name>Jugo de Naranja</name>
+            <description>Un jugo hecho con naranjas.</description>
+            <price>$0.99</price>
+        </item>
+    </lunchMenu>
+    <deserts>
+        <item category="desayunos">
+            <name>Desayuno de pollo</name>
+            <description>Un desyuno de pollo</description>
+            <prcie>$3000</prcie>
+        </item>
+        <item category="desayunos">
+            <name>Desayuno de pollo 2</name>
+            <description>Un desyuno de pollo 2</description>
+            <prcie>$30002</prcie>
+        </item>
+    </deserts>
+    <dinnerMenu>
+        <item category="cenas">
+            <name>Cena de pollo</name>
+            <description>Un Cena de pollo</description>
+            <prcie>$3000</prcie>
+        </item>
+        <item category="cenas">
+            <name>Desayuno de pollo 2</name>
+            <description>Un Cena de pollo 2</description>
+            <prcie>$30002</prcie>
+        </item>
+    </dinnerMenu>
+</restaurant>

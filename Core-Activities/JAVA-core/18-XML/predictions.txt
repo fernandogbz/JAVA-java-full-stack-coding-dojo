@@ -1,0 +1,7 @@
+<display-name>: el nombre de la app web
+<servlet>: Info del servlet
+<servlet-name>: Nombre del servlet
+<servlet-class>: la clase del servlet
+<servlet-mapping>: conectar el servlet
+<url-pattern>: el url al que conecta el servlet
+<welcome-file>: la pagina de bienvenida de la app web
