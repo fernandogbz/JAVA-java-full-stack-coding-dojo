@@ -60,6 +60,7 @@ public class BasicJava {
         return array;
     }
 
+    //8
     public int countGreater(int[] array, int value){
         int count = 0;
         for (int i : array) {
@@ -70,12 +71,14 @@ public class BasicJava {
         return count;
     }
 
+    //9
     public void squareArray(int[] array){
         for (int i = 0; i < array.length; i++) {
             array[i] *= array[i];
         }
     }
 
+    //10
     public void negToZero(int[] array){
         for (int i = 0; i < array.length; i++) {
             if(array[i] < 0){
@@ -84,6 +87,7 @@ public class BasicJava {
         }
     }
 
+    //11
     public void maxMinAvg(int[] array){
         int[] result = new int[3];
         result[0] = array[0];
@@ -100,6 +104,7 @@ public class BasicJava {
         }
     }
 
+    //12
     public void swiftLeft(int[] array){
         for(int i = 0; i < array.length - 1; i++){
             array[i] = array[i+1];
