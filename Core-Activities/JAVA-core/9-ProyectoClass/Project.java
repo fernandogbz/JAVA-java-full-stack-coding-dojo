@@ -48,6 +48,4 @@ class Project{
     public double getInitialValue(){
         return initialValue;
     }
-
-    
 }
