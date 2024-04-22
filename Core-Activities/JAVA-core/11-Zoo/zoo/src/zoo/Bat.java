@@ -16,7 +16,7 @@ public class Bat extends Mammal{
     }
 
     public void attackTown(){
-        System.out.println("*town is burning");
+        System.out.println("*city burning sounds*");
         this.energyLevel -= 100;
     }
 }
