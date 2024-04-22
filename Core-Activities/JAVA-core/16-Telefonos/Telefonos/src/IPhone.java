@@ -4,7 +4,7 @@ public class IPhone extends Phone implements Ringable {
     }
     @Override
     public String ring() {
-        return "Iphon " + this.getVersionNumber() + " says Ring Ring Ring";
+        return "Iphone " + this.getVersionNumber() + " says Ring Ring Ring";
 
     }
     @Override

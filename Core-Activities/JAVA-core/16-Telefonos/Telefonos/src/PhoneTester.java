@@ -1,7 +1,7 @@
 public class PhoneTester {
     public static void main(String[] args) throws Exception {
-        Galaxy s9 = new Galaxy("S9", 99, "Verizon", "Ring Ring Ring!");
-        IPhone iphoneTen = new IPhone("X", 100, "AT&T", "Zing");
+        Galaxy s9 = new Galaxy("S9", 99, "WOM", "Ring Ring Ring!");
+        IPhone iphoneTen = new IPhone("11 Pro Max", 100, "Movistar", "Zing");
         s9.displayInfo();
         System.out.println(s9.ring());
         System.out.println(s9.unlock());
